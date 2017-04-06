@@ -24,6 +24,7 @@ Or Using Keybord Shortcut(for other text editor), To using Keybord Shortcut,(Def
 
   1-To On Keybord Shortcut, Open BuduLearningTool.ini, see at SetKey Key, add 1 to On, Or Remove to Off(using as run agrument from button)  
   2-Run BuduLearningTool.exe
+  
   3-Select keyword in text editor and press F6 to find, If Next funtions On and software get more than one result,
   tooltip show above next keyword url, Press RIGHT erro to browsher next items or Press END to stop browsher
   
