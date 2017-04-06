@@ -1,17 +1,6 @@
 # Budu-Learning-Tool
 Easy to open HelpFile.chm url by selected program language keyword from most text editor
-
-
-More informations and other free software, visit :
- http://budusoftware.blogspot.my
- 
- If you wish to contribute, support me for better life.
-
-BuduLearningTool Page :
- http://budusoftware.blogspot.my/2017/03/budu-learning-tools.html
-
-BuduLearningTool.exe, Easy to open HelpFile.chm url by selected keyword from text editor
-This script using menthod Copy,(send Ctrl+c) for get keyword
+This software using menthod Copy,(send Ctrl+c) for get keyword
 and get extentions current file from title bar text editor(current file path or name as title most text editor),
 
 #> RedyMade Support Script Langguage : redymade ChmUrlShortcut.au3t
@@ -41,3 +30,10 @@ Or Using Keybord Shortcut(for other text editor), To using Keybord Shortcut,(Def
   
 Note : most text editor can Using with Keybord Shortcut
 
+BuduLearningTool Page :
+ http://budusoftware.blogspot.my/2017/03/budu-learning-tools.html
+
+More informations and other free software, visit :
+ http://budusoftware.blogspot.my
+ 
+ If you wish to contribute, support me for better life.
